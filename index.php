@@ -5,7 +5,7 @@
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
 
-  <?php include 'layouts/header.php'?>
+  <?php include 'layouts/navbar.php'?>
   <?php include 'layouts/sidebar.php'?>
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
